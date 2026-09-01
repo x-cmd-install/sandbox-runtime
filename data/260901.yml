@@ -1,0 +1,58 @@
+about:
+  description: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+  license: Apache-2.0
+  homepage: 
+  head: 40804af
+  archived: false
+  latestVersion: v0.0.74
+  collectedAt: 2026-09-01T05:24:21Z
+timeline:
+  created: 2025-10-20
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-25
+popularity:
+  star: 5100
+  watcher: 21
+  fork: 419
+  release: 37
+  contributor: 78
+  pullRequest: 146
+  issue: 123
+language:
+  TypeScript: 1803147
+  JavaScript: 5533
+  Shell: 34
+totalLine: 1808714
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 7
+    mergedPR: 31
+    openPR: 33
+    closedIssue: 0
+    openIssue: 11
+    commit: 21
+  last90d:
+    since: 2026-06-03
+    release: 22
+    mergedPR: 120
+    openPR: 50
+    closedIssue: 3
+    openIssue: 24
+    commit: 275
+  last180d:
+    since: 2026-03-05
+    release: 35
+    mergedPR: 174
+    openPR: 75
+    closedIssue: 15
+    openIssue: 51
+    commit: 360
+  last360d:
+    since: 2025-09-06
+    release: 37
+    mergedPR: 239
+    openPR: 92
+    closedIssue: 35
+    openIssue: 88
+    commit: 514
