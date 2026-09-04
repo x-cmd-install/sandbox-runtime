@@ -7,7 +7,7 @@ about:
   head: 66d35e5
   archived: false
   latestVersion: v0.0.75
-  collectedAt: 2026-09-04T19:48:00Z
+  collectedAt: 2026-09-04T20:52:51Z
 timeline:
   created: 2025-10-20
   lastCommit: 2026-09-03
@@ -82,5 +82,63 @@ total:
   openIssue: 89
   commit: 712
 ---
+path: /home/runner/.x-repo/github.com/anthropic-experimental/sandbox-runtime
+collectedAt: 2026-09-04T20:52:53Z
+loc:
+  TypeScript:
+    code: 36478
+    comments: 9437
+    blanks: 4132
+    files: 113
+  Rust:
+    code: 7721
+    comments: 888
+    blanks: 506
+    files: 24
+  Json:
+    code: 5082
+    comments: 0
+    blanks: 4
+    files: 4
+  PowerShell:
+    code: 1618
+    comments: 554
+    blanks: 130
+    files: 7
+  C:
+    code: 835
+    comments: 146
+    blanks: 41
+    files: 2
+  Java:
+    code: 393
+    comments: 90
+    blanks: 27
+    files: 2
+  JavaScript:
+    code: 172
+    comments: 18
+    blanks: 12
+    files: 2
+  Toml:
+    code: 50
+    comments: 13
+    blanks: 4
+    files: 2
+  Markdown:
+    code: 0
+    comments: 382
+    blanks: 214
+    files: 3
+  Text:
+    code: 0
+    comments: 10
+    blanks: 8
+    files: 2
+total:
+  code: 52542
+  comments: 13613
+  blanks: 5226
+  files: 161
 ---
 
