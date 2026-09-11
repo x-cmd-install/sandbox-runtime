@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/anthropics/sandbox-runtime/tarball/v0.0.76",
   "zipball_url": "https://api.github.com/repos/anthropics/sandbox-runtime/zipball/v0.0.76",
   "body": "## What's Changed\n* Point package metadata at github.com/anthropics/sandbox-runtime by @shawnm-anthropic in https://github.com/anthropics/sandbox-runtime/pull/512\n* cli: let srt exit after the command when --control-fd is a pipe by @ronleizrowice-ant in https://github.com/anthropics/sandbox-runtime/pull/501\n* linux: drop a root caller's capabilities in both sandbox modes by @ronleizrowice-ant in https://github.com/anthropics/sandbox-runtime/pull/505\n* linux: skip write-deny binds already covered by a read-only denied directory by @ronleizrowice-ant in https://github.com/anthropics/sandbox-runtime/pull/502\n* Sanitize an unregistered attribution key in every violation producer by @ronleizrowice-ant in https://github.com/anthropics/sandbox-runtime/pull/513\n* Refuse allow-listed hostnames that resolve to loopback, link-local or configured private ranges by @dannycochran in https://github.com/anthropics/sandbox-runtime/pull/522\n* Release v0.0.76 by @shawnm-anthropic in https://github.com/anthropics/sandbox-runtime/pull/528\n\n## New Contributors\n* @dannycochran made their first contribution in https://github.com/anthropics/sandbox-runtime/pull/522\n\n**Full Changelog**: https://github.com/anthropics/sandbox-runtime/compare/v0.0.75...v0.0.76",
+  "reactions": {
+    "url": "https://api.github.com/repos/anthropics/sandbox-runtime/releases/386681181/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 3
 }

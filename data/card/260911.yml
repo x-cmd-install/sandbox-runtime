@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.76"
   latestRelease: "v0.0.76"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:56:29Z
+  collectedAt: 2026-09-11T19:02:37Z
 timeline:
   created: 2025-10-20
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 5198
+  star: 5205
   watcher: 21
-  fork: 434
+  fork: 435
   release: 39
   contributor: 40
   pullRequest: 403
@@ -85,7 +85,7 @@ total:
   commit: 737
 ---
 path: /home/runner/.x-repo/github.com/anthropic-experimental/sandbox-runtime
-collectedAt: 2026-09-11T05:56:31Z
+collectedAt: 2026-09-11T19:02:40Z
 loc:
   TypeScript:
     code: 37961
