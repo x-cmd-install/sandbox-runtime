@@ -36,7 +36,7 @@ Total: **53,832** lines of code across **153** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,198 · **Forks**: 434 · **Open issues**: 124 · **Contributors**: 40
+- **Stars**: 5,205 · **Forks**: 435 · **Open issues**: 124 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -62,4 +62,4 @@ Install metadata for sandbox-runtime lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:56:35Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:02:54Z._
