@@ -4,7 +4,7 @@
 
 A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-![sandbox-runtime](https://repo.x-cmd.io/sandbox-runtime.svg?lang=zh)
+[![x-cmd/install — sandbox-runtime Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sandbox-runtime.svg?lang=zh)](https://x-cmd.com/install/sandbox-runtime)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install sandbox-runtime
 
 ## 代码洞察
 
-合计: **63,743** 行代码（覆盖前 5 种语言、共 **166** 个文件）。
+合计: **64,259** 行代码（覆盖前 5 种语言、共 **167** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 47,828 | 12,047 | 5,287 | 129 |
+| TypeScript | 48,344 | 12,183 | 5,330 | 130 |
 | Rust | 7,721 | 888 | 506 | 24 |
 | Json | 5,082 | 0 | 4 | 4 |
 | PowerShell | 1,643 | 578 | 130 | 7 |
@@ -31,27 +31,27 @@ x install sandbox-runtime
 
 ## 发布
 
-- **最新版本**: `v0.0.76` (2026-09-10)
+- **最新版本**: `v0.0.77` (2026-09-18)
 - **最近提交**: 2026-09-18
 
 ## 流行度
 
-- **Star**: 5,264 · **Fork**: 447 · **开放 issue**: 133 · **贡献者**: 41
+- **Star**: 5,280 · **Fork**: 449 · **开放 issue**: 134 · **贡献者**: 41
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 264 · **开放 PR**: 107 · **已关闭 issue**: 35 · **开放 issue**: 98 · **提交数**: 755
+- **发布数**: 40 · **已合并 PR**: 267 · **开放 PR**: 113 · **已关闭 issue**: 35 · **开放 issue**: 99 · **提交数**: 758
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 34 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 39 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 39 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 40 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ sandbox-runtime 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:10:40Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:02:13Z._

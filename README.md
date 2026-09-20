@@ -4,7 +4,7 @@
 
 A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-![sandbox-runtime](https://repo.x-cmd.io/sandbox-runtime.svg)
+[![x-cmd/install — sandbox-runtime Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sandbox-runtime.svg)](https://x-cmd.com/install/sandbox-runtime)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install sandbox-runtime
 
 ## Code insight
 
-Total: **63,743** lines of code across **166** files in the top 5 languages.
+Total: **64,259** lines of code across **167** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 47,828 | 12,047 | 5,287 | 129 |
+| TypeScript | 48,344 | 12,183 | 5,330 | 130 |
 | Rust | 7,721 | 888 | 506 | 24 |
 | Json | 5,082 | 0 | 4 | 4 |
 | PowerShell | 1,643 | 578 | 130 | 7 |
@@ -31,27 +31,27 @@ Total: **63,743** lines of code across **166** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.76` (2026-09-10)
+- **Latest**: `v0.0.77` (2026-09-18)
 - **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 5,264 · **Forks**: 447 · **Open issues**: 133 · **Contributors**: 41
+- **Stars**: 5,280 · **Forks**: 449 · **Open issues**: 134 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 264 · **Open PRs**: 107 · **Closed issues**: 35 · **Open issues**: 98 · **Commits**: 755
+- **Releases**: 40 · **Merged PRs**: 267 · **Open PRs**: 113 · **Closed issues**: 35 · **Open issues**: 99 · **Commits**: 758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 34 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 39 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 39 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 40 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sandbox-runtime lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:10:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:02:13Z._
