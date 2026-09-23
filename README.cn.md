@@ -4,7 +4,7 @@
 
 A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
-[![x-cmd/install — sandbox-runtime Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sandbox-runtime.svg?lang=zh)](https://x-cmd.com/install/sandbox-runtime)
+[![x-cmd/install — sandbox-runtime Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sandbox-runtime.svg?lang=zh)](https://x-cmd.com/install/sandbox-runtime)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install sandbox-runtime
 
 ## 流行度
 
-- **Star**: 5,300 · **Fork**: 453 · **开放 issue**: 135 · **贡献者**: 41
+- **Star**: 5,304 · **Fork**: 455 · **开放 issue**: 137 · **贡献者**: 41
 
 ## 累计统计
 
-- **发布数**: 40 · **已合并 PR**: 270 · **开放 PR**: 127 · **已关闭 issue**: 35 · **开放 issue**: 100 · **提交数**: 761
+- **发布数**: 40 · **已合并 PR**: 270 · **开放 PR**: 129 · **已关闭 issue**: 35 · **开放 issue**: 102 · **提交数**: 761
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 35 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 40 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 40 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 40 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ sandbox-runtime 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:26:38Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:30:37Z._
