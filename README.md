@@ -14,11 +14,11 @@ x install sandbox-runtime
 
 ## Code insight
 
-Total: **120,117** lines of code across **238** files in the top 5 languages.
+Total: **120,368** lines of code across **238** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 84,202 | 16,624 | 7,672 | 193 |
+| TypeScript | 84,453 | 16,656 | 7,689 | 193 |
 | Rust | 24,312 | 1,154 | 1,089 | 29 |
 | Json | 5,085 | 0 | 4 | 5 |
 | PowerShell | 4,342 | 839 | 229 | 9 |
@@ -32,26 +32,26 @@ Total: **120,117** lines of code across **238** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.81` (2026-10-20)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 5,654 · **Forks**: 504 · **Open issues**: 169 · **Contributors**: 42
+- **Stars**: 6,041 · **Forks**: 531 · **Open issues**: 173 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 356 · **Open PRs**: 163 · **Closed issues**: 40 · **Open issues**: 129 · **Commits**: 885
+- **Releases**: 44 · **Merged PRs**: 357 · **Open PRs**: 166 · **Closed issues**: 40 · **Open issues**: 133 · **Commits**: 886
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 32 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 44 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 44 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 32 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 44 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 44 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sandbox-runtime lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:44:35Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:29:55Z._
