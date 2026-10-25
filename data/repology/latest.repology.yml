@@ -12,7 +12,7 @@
 - repo: nix_unstable
   srcname: sandbox-runtime
   visiblename: sandbox-runtime
-  version: 0.0.80
+  version: 0.0.81
   origversion: null
   status: unique
   summary: Lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container
