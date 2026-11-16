@@ -36,22 +36,30 @@ Total: **126,663** lines of code across **241** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,129 · **Forks**: 643 · **Open issues**: 199 · **Contributors**: 43
+- **Stars**: 7,144 · **Forks**: 645 · **Open issues**: 199 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 366 · **Open PRs**: 163 · **Closed issues**: 41 · **Open issues**: 158 · **Commits**: 896
+- **Releases**: 46 · **Merged PRs**: 366 · **Open PRs**: 164 · **Closed issues**: 41 · **Open issues**: 158 · **Commits**: 896
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 32 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-20 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-25 | 46 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-17 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-18 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-20 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-21 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-26 | 46 | 0 | 0 | 0 | 0 | 0 |
+
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/sandbox-runtime). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.0.83` | ✅ latest |
 
 ## Improve this data
 
@@ -62,4 +70,4 @@ Install metadata for sandbox-runtime lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:08:38Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:20:12Z._
