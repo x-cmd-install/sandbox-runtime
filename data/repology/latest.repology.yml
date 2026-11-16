@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: sandbox-runtime
+  binname: sandbox-runtime
+  visiblename: sandbox-runtime
+  version: 0.0.83
+  origversion: 0.0.83-1
+  status: newest
+  summary: Tool for enforcing filesystem and network restrictions on arbitrary processes
+  maintainers:
+    - friedev@aur
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: sandbox-runtime
   visiblename: sandbox-runtime
@@ -12,9 +24,9 @@
 - repo: nix_unstable
   srcname: sandbox-runtime
   visiblename: sandbox-runtime
-  version: 0.0.82
+  version: 0.0.83
   origversion: null
-  status: unique
+  status: newest
   summary: Lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container
   maintainers:
     - gaetan@glepage.com
