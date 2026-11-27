@@ -36,22 +36,22 @@ Total: **126,663** lines of code across **241** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,280 · **Forks**: 663 · **Open issues**: 221 · **Contributors**: 43
+- **Stars**: 7,292 · **Forks**: 665 · **Open issues**: 222 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 366 · **Open PRs**: 176 · **Closed issues**: 42 · **Open issues**: 179 · **Commits**: 896
+- **Releases**: 46 · **Merged PRs**: 366 · **Open PRs**: 177 · **Closed issues**: 42 · **Open issues**: 180 · **Commits**: 896
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 31 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 46 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 46 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sandbox-runtime lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:28:33Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:12:33Z._
